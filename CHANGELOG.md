@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.1 (Aug, 28th 2024)
+
+Protect Symbol.__eq__ by instance check
+
 ## 2.2.0 (Jul, 18th 2024)
 
 Exclude a list of paths from diff. by @payam54 in https://github.com/xlwings/jsondiff/pull/81
