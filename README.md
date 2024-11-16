@@ -16,6 +16,8 @@ pip install -r requirement-dev.txt
 
 ## run tests
 ```
+cd into tests/
+
 pytest
 ```
 
