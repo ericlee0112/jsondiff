@@ -2,6 +2,23 @@
 
 Diff JSON and JSON-like structures in Python.
 
+## How to create / enable virtual env
+
+```
+python3 -m venv /path/to/jsondiff
+source /path/to/jsondiff/bin/activate
+```
+
+## install packages
+```
+pip install -r requirements.txt
+```
+
+## run tests
+```
+pytest
+```
+
 ## Installation
 
 ``pip install jsondiff``
