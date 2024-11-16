@@ -6,7 +6,6 @@ from yaml import YAMLError
 
 from .symbols import *
 from .symbols import Symbol
-from ._version import __version__
 
 # rules
 # - keys and strings which start with $ (or specified escape_str) are escaped to $$ (or escape_str * 2)
