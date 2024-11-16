@@ -11,7 +11,7 @@ source /path/to/jsondiff/bin/activate
 
 ## install packages
 ```
-pip install -r requirements.txt
+pip install -r requirement-dev.txt
 ```
 
 ## run tests
